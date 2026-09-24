@@ -8,6 +8,7 @@ review_image: svibe-official-gizi-lifestyle
 review_image_alt: Modelo Snail Gizi turquesa sostenido sobre la cadera en una fotografía oficial de SVibe
 review_image_caption: Gizi turquesa en una fotografía de la marca.
 review_video: WXXaQKP4_uY
+review_video_after: como-convertir-opiniones-en-una-decision-propia
 review_video_title: Sydney Screams reseña Snail Gizi
 review_video_caption: Sydney Screams enseña Gizi y explica por qué lo prefiere a Curve. Declara que SVibe le regaló el producto y que sus enlaces son de afiliación.
 ---
