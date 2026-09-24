@@ -1,0 +1,25 @@
+article:
+  title: "SVibe reviews: ¿vale la pena? Cinco ventajas y un punto a vigilar"
+  intent: "Reseña y lista de ventajas para lectores adultos de Perú"
+  checked_at: "2026-09-24"
+sources:
+  - url: "https://svibe.com/products/female-vibrator-curve-svibe"
+    kind: official
+    supports: ["Diseño y funciones de Curve"]
+  - url: "https://svibe.com/products/female-vibrator-gizi-svibe"
+    kind: official
+    supports: ["Diseño y funciones de Gizi", "Foto oficial de portada"]
+  - url: "https://www.trustpilot.com/review/svibe.com"
+    kind: independent
+    supports: ["Opiniones mixtas sobre productos, entrega y comunicación"]
+  - url: "https://sydneyscreams.com/svibe-snail-gizi-review/"
+    kind: independent
+    supports: ["Experiencia personal con Gizi; producto facilitado por la marca"]
+firsthand_evidence:
+  - "Sofía confirmó que probó Curve y Gizi, que le gustaron y que firma esta reseña; no proporcionó detalles técnicos ni de envío propios."
+media:
+  image_asset: "https://cdn.shopify.com/s/files/1/0615/9522/2152/files/23.png?v=1772626418"
+  image_permission: "Confirmada por Sofía el 24 de septiembre de 2026"
+  video: "https://youtu.be/WXXaQKP4_uY"
+  video_context: "Reseña de Gizi de Sydney Screams; la autora indica que la marca le facilitó el producto."
+must_not_claim: ["Entrega puntual garantizada", "Que Sofía probó modelos adicionales", "Que no existen otras preferencias o reparos individuales"]
