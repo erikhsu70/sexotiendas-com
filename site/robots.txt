@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sexotiendas.com/sitemap.xml
